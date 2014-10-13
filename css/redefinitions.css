@@ -1,9 +1,31 @@
 @charset "UTF-8";
 
-span.exclamation {
-    color: red;
+
+
+ul li {
+    list-style-type: none;
+}
+
+
+.flottant-droit{
+    float: right;
 }
 
 .reveal section img {
-    border: 0px;
+    border: 0;
+}
+
+/* Page 3 */
+.paralel-block > div,
+.paralel-block > img{
+    float:left;
+}
+.paralel-block .block-left {
+    width:64%; 
+    text-align:right; 
+}
+.paralel-block .block-right {
+    width:20%; 
+    margin-left:50px;
+    box-shadow: 0 0 0
 }
