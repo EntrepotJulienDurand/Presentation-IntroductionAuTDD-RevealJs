@@ -29,3 +29,15 @@ ul li {
     width:20%; 
     margin-left:50px;
 }
+
+.hauteur160{
+    height: 160px;
+}
+
+.hauteur195{
+    height: 195px;
+}
+
+.decalageGauche10{
+    padding:0 10px;
+}
